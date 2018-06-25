@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHub_Users_App</string>
+    <string name="user_avatar">user avatar</string>
+    <string name="user_name">User name</string>
+    <string name="user_id">user id</string>
+    <string name="github_url">github url</string>
+    <string name="connection_error">Connection Error !</string>
+    <string name="back">back</string>
+    <string name="forward">forward</string>
+</resources>
